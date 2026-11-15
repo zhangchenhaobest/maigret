@@ -1,3 +1,29 @@
+# maigret
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+🕵️‍♂️ Collect a dossier on a person by username from 6K websites
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+通过用户名从 6000 个网站收集个人档案的 OSINT 工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Maigret
 
 <div align="center">
